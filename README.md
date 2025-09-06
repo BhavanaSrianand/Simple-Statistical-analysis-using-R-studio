@@ -28,7 +28,8 @@ To access the following claims
 
 Import the data
 
+
 data <- read.csv("COVID19_line_list_data.csv") <pre> ```r
 
-View(data) <pre> ```r
+
 
