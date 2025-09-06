@@ -29,7 +29,13 @@ To access the following claims
 Import the data
 
 
-data <- read.csv("COVID19_line_list_data.csv") <pre> ```r
+ <pre> ```r 
+data <- read.csv("COVID19_line_list_data.csv")
+data
+View(data)  
+``` </pre>
+  
+     
 
 
 
